@@ -4697,5 +4697,12 @@
     "erc721": false,
     "symbol": "MUBI",
     "decimals": 18
-  }
+  },
+  "0x6738B9F46a08118BbbF77e8c30E5A50cB2Db5709": {
+    "name": "JAAX Coin",
+    "logo": "JAAX.svg",
+    "erc20": true,
+    "erc721": false,
+    "symbol": "JAAX",
+    "decimals": 18
 }
